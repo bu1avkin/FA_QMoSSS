@@ -60,4 +60,4 @@
 Для запуска тестов используйте команду:
 
 ```bash
-python -m unittest ./TestUserForm.py
+python -m unittest ./GithubAPITest.py
