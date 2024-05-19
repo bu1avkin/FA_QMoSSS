@@ -1,5 +1,3 @@
-![image](https://github.com/bu1avkin/FA_QMoSSS/assets/87917992/99f95051-c76a-4c21-88c7-b2aaa557de57)# FA_QMoSSS
- 
 # Управление качеством программных систем
 
 ## Лабораторные работы
